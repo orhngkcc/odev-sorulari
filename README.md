@@ -1,2 +1,0 @@
-# odev-sorulari
-Proje Ödevi
